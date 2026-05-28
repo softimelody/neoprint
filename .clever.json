@@ -1,0 +1,12 @@
+{
+  "apps": [
+    {
+      "app_id": "app_322cefb3-19a1-4073-9e75-48065b1ed938",
+      "org_id": "user_b028c023-40f8-433f-8390-f948443be4e6",
+      "deploy_url": "ftpes://upload.n3-par.clever-cloud.com/",
+      "git_ssh_url": "ftpes://upload.n3-par.clever-cloud.com/",
+      "name": "NeoPrint",
+      "alias": "NeoPrint"
+    }
+  ]
+}
